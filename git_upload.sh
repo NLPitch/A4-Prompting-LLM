@@ -6,4 +6,11 @@
 #SBATCH --ntasks=1
 #SBATCH --mem=2g
 
-pwd
+cd ..
+DIRECTORY="csci5541-hw-prompting"
+
+if [ -d "$DIRECTORY" ]; then
+    echo "$DIRECTORY already exist."
+else
+    git clone https://github.com/minnesotanlp/csci5541-hw-prompting.git
+fi
