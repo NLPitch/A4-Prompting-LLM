@@ -6,11 +6,20 @@
 #SBATCH --ntasks=1
 #SBATCH --mem=2g
 
-cd ..
-DIRECTORY="csci5541-hw-prompting"
+OUTPUT_FILE ="csci5541-s24-hw4-NLPitch-3*.json"
+OUTPUT_DIR="csci5541-hw-prompting"
 
-if [ -d "$DIRECTORY" ]; then
-    echo "$DIRECTORY already exist."
-else
-    git clone https://github.com/minnesotanlp/csci5541-hw-prompting.git
-fi
+mv OUTPUT_FILE ../
+cd ..
+
+
+# if [ -d "$OUTPUT_DIR" ]; then
+#     echo "$OUTPUT_DIR already exist."
+# else
+#     git clone https://github.com/minnesotanlp/$OUTPUT_DIR.git
+# fi
+
+# cd OUTPUT_DIR
+
+# git branch NLPitch
+# git checkout NLPitch
