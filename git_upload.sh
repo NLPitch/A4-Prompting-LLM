@@ -21,7 +21,8 @@ fi
 mv $OUTPUT_FILE $OUTPUT_DIR/
 cd $OUTPUT_DIR
 
-git branch NLPitch
+git branch --set-upstream-to origin/NLPitch
 git checkout NLPitch
 git add --all
 git commit -m "NLPitch: Data file push"
+git push
