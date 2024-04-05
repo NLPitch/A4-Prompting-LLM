@@ -1,0 +1,102 @@
+{
+    "id": "",
+    "generations": [
+        {
+            "id": "",
+            "text": " Compliment. \nA backhanded compliment is a statement that appears to be compliment but is actually critical, typically through an inclusion of an unflattering comparison. ",
+            "finish_reason": "COMPLETE"
+        }
+    ],
+    "prompt": "task: Is this text a compliment or backhanded compliment?, input: You are the only person who can always make me laugh.",
+    "meta": {
+        "api_version": {
+            "version": "1"
+        },
+        "billed_units": {
+            "input_tokens": 26,
+            "output_tokens": 35
+        }
+    }
+}{
+    "id": "",
+    "generations": [
+        {
+            "id": "",
+            "text": "Backhanded compliment",
+            "finish_reason": "COMPLETE"
+        }
+    ],
+    "prompt": "task: Is this text a compliment or backhanded compliment?, input: Your ideas were good for an intern.",
+    "meta": {
+        "api_version": {
+            "version": "1"
+        },
+        "warnings": [
+            "Your text contains a trailing whitespace, which has been trimmed to ensure high quality generations."
+        ],
+        "billed_units": {
+            "input_tokens": 22,
+            "output_tokens": 4
+        }
+    }
+}{
+    "id": "",
+    "generations": [
+        {
+            "id": "",
+            "text": "This text is a backhanded compliment. Whilst the first part of the statement seems like a compliment, the second part suggests that the person is not actually that fun \nin real life. This person is only fun through the curated content they post - a negative interpretation of someone's social media presence. ",
+            "finish_reason": "COMPLETE"
+        }
+    ],
+    "prompt": "task: Is this text a compliment or backhanded compliment?, input: Your Instagram makes you seem so fun!",
+    "meta": {
+        "api_version": {
+            "version": "1"
+        },
+        "warnings": [
+            "Your text contains a trailing whitespace, which has been trimmed to ensure high quality generations."
+        ],
+        "billed_units": {
+            "input_tokens": 22,
+            "output_tokens": 62
+        }
+    }
+}{
+    "id": "",
+    "generations": [
+        {
+            "id": "",
+            "text": " This text is a backhanded compliment. The person is complimenting the other for going back to work, however they are also putting them down by insinuating that they are a bad parent for letting strangers watch their kids. ",
+            "finish_reason": "COMPLETE"
+        }
+    ],
+    "prompt": "task: Is this text a compliment or backhanded compliment?, input: You are Amazing For Going Back To Work. I Could Never Let A Stranger Watch My Kids!",
+    "meta": {
+        "api_version": {
+            "version": "1"
+        },
+        "billed_units": {
+            "input_tokens": 33,
+            "output_tokens": 47
+        }
+    }
+}{
+    "id": "",
+    "generations": [
+        {
+            "id": "",
+            "text": " This is a compliment. The phrase \"a breath of fresh air\" is used to describe something positive and refreshing, particularly in the context of contrast, as the person is likening you to a breath of fresh air in comparison to something else. ",
+            "finish_reason": "COMPLETE"
+        }
+    ],
+    "prompt": "task: Is this text a compliment or backhanded compliment?, input: You are like a breath of fresh air.",
+    "meta": {
+        "api_version": {
+            "version": "1"
+        },
+        "billed_units": {
+            "input_tokens": 23,
+            "output_tokens": 51
+        }
+    }
+}%
