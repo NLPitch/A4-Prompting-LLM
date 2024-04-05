@@ -1,0 +1,115 @@
+{
+  "id": "",
+  "object": "chat.completion",
+  "created": 1712351373,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text is a compliment."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 32,
+    "completion_tokens": 6,
+    "total_tokens": 38
+  },
+  "system_fingerprint": "fp_b28b39ffa8"
+}
+{
+  "id": "",
+  "object": "chat.completion",
+  "created": 1712351374,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "compliment"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 29,
+    "completion_tokens": 3,
+    "total_tokens": 32
+  },
+  "system_fingerprint": "fp_b28b39ffa8"
+}
+{
+  "id": "",
+  "object": "chat.completion",
+  "created": 1712351375,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text is a backhanded compliment."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 39,
+    "completion_tokens": 9,
+    "total_tokens": 48
+  },
+  "system_fingerprint": "fp_b28b39ffa8"
+}
+{
+  "id": "",
+  "object": "chat.completion",
+  "created": 1712351375,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "backhanded compliment"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 29,
+    "completion_tokens": 4,
+    "total_tokens": 33
+  },
+  "system_fingerprint": "fp_b28b39ffa8"
+}
+{
+  "id": "",
+  "object": "chat.completion",
+  "created": 1712351376,
+  "model": "gpt-3.5-turbo-0125",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "This text is a compliment."
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 30,
+    "completion_tokens": 6,
+    "total_tokens": 36
+  },
+  "system_fingerprint": "fp_b28b39ffa8"
+}
