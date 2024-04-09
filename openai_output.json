@@ -1,111 +1,12 @@
-[{
-  "id": "chatcmpl-9BpXGWVPzBox5tDDNJwAELWUZXYdp",
-  "object": "chat.completion",
-  "created": 1712606738,
-  "model": "gpt-3.5-turbo-0125",
-  "choices": [
-    {
-      "index": 0,
-      "message": {
-        "role": "assistant",
-        "content": "This text is a compliment."
-      },
-      "logprobs": null,
-      "finish_reason": "stop"
-    }
-  ],
-  "usage": {
-    "prompt_tokens": 32,
-    "completion_tokens": 6,
-    "total_tokens": 38
+[
+  {"generation": "\n\ncompliment", "finish_reason": "stop"
   },
-  "system_fingerprint": "fp_b28b39ffa8"
-},{
-  "id": "chatcmpl-9BpXHrErJZ64Z68PGPzqUsU0T1ro6",
-  "object": "chat.completion",
-  "created": 1712606739,
-  "model": "gpt-3.5-turbo-0125",
-  "choices": [
-    {
-      "index": 0,
-      "message": {
-        "role": "assistant",
-        "content": "This text is a backhanded compliment."
-      },
-      "logprobs": null,
-      "finish_reason": "stop"
-    }
-  ],
-  "usage": {
-    "prompt_tokens": 29,
-    "completion_tokens": 9,
-    "total_tokens": 38
+  {"generation": "\n\nBackhanded compliment.", "finish_reason": "stop"
   },
-  "system_fingerprint": "fp_b28b39ffa8"
-},{
-  "id": "chatcmpl-9BpXI8WQ8i2f1D8VeNvtsvyjQJUom",
-  "object": "chat.completion",
-  "created": 1712606740,
-  "model": "gpt-3.5-turbo-0125",
-  "choices": [
-    {
-      "index": 0,
-      "message": {
-        "role": "assistant",
-        "content": "This text is a compliment."
-      },
-      "logprobs": null,
-      "finish_reason": "stop"
-    }
-  ],
-  "usage": {
-    "prompt_tokens": 29,
-    "completion_tokens": 6,
-    "total_tokens": 35
+  {"generation": "\n\nThis text is a compliment. \n", "finish_reason": "stop"
   },
-  "system_fingerprint": "fp_b28b39ffa8"
-},{
-  "id": "chatcmpl-9BpXM38yrnfAx7AWO7avPnbdRTtFE",
-  "object": "chat.completion",
-  "created": 1712606744,
-  "model": "gpt-3.5-turbo-0125",
-  "choices": [
-    {
-      "index": 0,
-      "message": {
-        "role": "assistant",
-        "content": "This text is a backhanded compliment."
-      },
-      "logprobs": null,
-      "finish_reason": "stop"
-    }
-  ],
-  "usage": {
-    "prompt_tokens": 39,
-    "completion_tokens": 9,
-    "total_tokens": 48
+  {"generation": "\n\nBackhanded compliment ", "finish_reason": "stop"
   },
-  "system_fingerprint": "fp_b28b39ffa8"
-},{
-  "id": "chatcmpl-9BpXNzSoZB8BqdrN8kwxlNJLr0eNr",
-  "object": "chat.completion",
-  "created": 1712606745,
-  "model": "gpt-3.5-turbo-0125",
-  "choices": [
-    {
-      "index": 0,
-      "message": {
-        "role": "assistant",
-        "content": "This text is a compliment."
-      },
-      "logprobs": null,
-      "finish_reason": "stop"
-    }
-  ],
-  "usage": {
-    "prompt_tokens": 30,
-    "completion_tokens": 6,
-    "total_tokens": 36
-  },
-  "system_fingerprint": "fp_b28b39ffa8"
-}]
+  {"generation": "\n\nThis is a compliment.", "finish_reason": "stop"
+  }
+]
