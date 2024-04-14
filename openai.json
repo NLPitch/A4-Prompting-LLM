@@ -1,0 +1,1802 @@
+[
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Which bear is the most condescending?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A pan-duh!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "A pan-duh",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What’s brown and sticky?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A stick.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "A stick",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How do you get a country girl’s attention?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A tractor!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "A tractor",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you call it when a group of apes starts a company? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Monkey business!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Monkey business",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the pharmacist walk on her tiptoes?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because she didn't want to wake up the sleeping pills.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "She didn't want to wake the sleeping pills",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why are elevator jokes so classic and good?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they work on many levels.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "They work on many levels",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you call a pudgy psychic?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A four-chin teller.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "A four-chin teller.",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What did the police officer say to his belly-button?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "You're under a vest!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "You’re under a vest",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What is the most detail-oriented ocean?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "The Specific Ocean (a play on words for Pacific Ocean).",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "The pacific",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What kind of drink can be bitter and sweet?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Life.",
+    "final_annotation": 0,
+    "individual_annotations": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "real_response": "Reali-tea",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you call a naughty lamb dressed up like a skeleton for Halloween?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Baa-d to the bone!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Baaad to the bone",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the lobster blush?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because the sea weed!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "real_response": "Because it saw the ocean's bottom",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why do nurses like red crayons?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because sometimes they have to draw blood.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because they have to draw blood",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What kind of noise does a witch’s vehicle make? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Broom Broom!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Brrrroooom, brrroooom",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What would the Terminator be called in his retirement?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "The Exterminator.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "The Exterminator",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What did Tennessee?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "The same thing as Arkansas!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "The same thing as Arkansas",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why do bees have sticky hair? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they use honeycombs!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because they use a honeycomb",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why do some couples go to the gym?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they want their relationship to work out!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because they want their relationship to work out",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you call an angry musician flipping someone off? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A band conductor.",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "real_response": "A song bird",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How can you tell it’s a dogwood tree?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "By its bark!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "By the bark",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How do you know your vacuum clearner is getting old?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it's losing its suck!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "real_response": "When it starts gathering dust",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the man fall down the well?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because he couldn't see that well!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because he couldn’t see that well",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': When does a joke become a “dad joke”?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "When it becomes apparent.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "When it becomes apparent",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why is Peter Pan always flying? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because he never lands!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because he Neverlands",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Which state has the most streets?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Rhode Island.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "real_response": "Rhode Island",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you call 26 letters that went for a swim?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Alphawet!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Alphawetical",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What’s the name of a very polite, European body of water?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "The Mediterranean \"Sea, Thank You!\"",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "real_response": "Merci",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why was the color green notoriously single?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it was always so jaded!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "It was always so jaded",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the coach go to the bank?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "To get his \"quarter back\".",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "To get his quarterback",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How do celebrities stay cool?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "They have many fans!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "They have many fans",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Which day of the week is  sadder than Sunday?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Moanday!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "real_response": "Saturday",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the bedding hide their relationship?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they didn't want people to know they're always sheeting around.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "real_response": "They just wanted something pillow-key",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': You’re American when you go into a bathroom and when you come out, but what are you while you’re in the bathroom? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "European (You're a peeing)!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "European",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Dogs can’t operate MRI machines. But?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Catscan!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Catscan",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What did the flowers do when the bride walked down the aisle? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "They rose!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "They rose",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you get from a pampered cow?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Spoiled milk!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Spoiled milk",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What does \"Rockin' Robin\" do when she's bored?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "She tweets all day!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Tweet",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did Waldo go to therapy?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because he was tired of being lost all the time.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because he needed to find himself",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How do you row a canoe filled with puppies?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Bring out the \"pup-paddles\"!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      0,
+      1,
+      1
+    ],
+    "real_response": "Bring out the doggy paddle",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What happens if you sing in the shower until you get soap in your mouth?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "You become a soap opera singer!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "It becomes a soap opera",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why were the utensils stuck together?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they were spooning!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "They were spooning",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What's a crafty dancer's favorite hobby?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Cutting a rug!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "real_response": "Cutting a rug",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How does a penguin build his house?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Igloos it together!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Igloos it together",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What kind of music do chiropractors like?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Hip \"pop\".",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Hip pop",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Where do you learn to make ice cream?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "At Sundae school.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "At sundae school",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What kind of shoes does a lazy person wear?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Loafers!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Loafers",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why is cold water so insecure?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it never gets called hot!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because it’s never called hot",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How many apples can you grow on a tree?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "All of them!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "All of them",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why can't you trust an atom?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they make up everything!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because they make up everything",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you call justice served warm?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Just desserts!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      1,
+      0
+    ],
+    "real_response": "Just-water",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the baby strawberry cry? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because his parents were in a jam!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because its mother was in a jam",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why couldn't the toilet paper cross the road?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it got stuck in a crack!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because it got stuck in a crack",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What kind of car does a sheep like to drive?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A Lamborghini!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "A  Lamborghini",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you call someone who won't stick to a diet?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A desserter!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "A desserter",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What did the accountant say while auditing a document?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Credit where credit is due!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "real_response": "This is taxing",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What did the two pieces of bread say on their wedding day?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "We were made for each 'loaf' other!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "real_response": "It was loaf at first sight",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you call a person who saw a burglary at an Apple store?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "An iWitness!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "An iWitness",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why do melons have weddings?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they cantaloupe!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because they cantaloupe",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What did the drummer call his twin daughters?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Anna one, Anna two!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Anna One, Anna Two",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What did the juicer say to the orange during self-quarantine?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "I'm feeling a little squeezed, how about you?",
+    "final_annotation": 1,
+    "individual_annotations": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "real_response": "an’t wait to squeeze you",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you call a toothless bear? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A gummy bear!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "A gummy bear",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why would doors do well on social media?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they always know how to make an entrance!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "real_response": "Everyone looks for their handles",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the physicist and the biologist break up?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they had no chemistry.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because they had no chemistry",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Which bathroom appliance would be the worst life preserver? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A sink!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "The sink",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why was the dad sitting on a pack of playing cards?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because he wanted to \"deal\" with his problems sitting down.",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "real_response": "His kid asked him to sit on the deck",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How do birds learn how to fly?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "They just wing it!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "They wing it",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What kind of bird is always getting hurt?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "An owl!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "The owl",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How does Darth Vader like his toast?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "On the dark side!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "On the dark side",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What did the dishwasher say to the oven after a productive day?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "We really cleaned up today!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "real_response": "You've been on fire",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the tomato blush?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it saw the salad dressing!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because it saw the salad dressing",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the cashier rip money in half?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because he wanted to make some \"change\"!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "real_response": "They were asked to break a bill",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why couldn't the duck be quiet?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because he had a \"quack\" in his voice!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "real_response": "Because it was addicted to quack",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why was the ghost so tired?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because he was up all night boo-ing!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      0,
+      1,
+      1,
+      0
+    ],
+    "real_response": "He worked the graveyard shift",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why do pancakes always win at baseball?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they always have the perfect batter!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "They have the best batter",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the baseball player get arrested?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because he stole a base!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because he stole second base",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why couldn't the couple get married at the library?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it was fully booked.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "It was all booked up",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the pug buy a clock?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because he wanted to be a \"watch dog\"!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "It wanted to be a watchdog",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Where do hamburgers go to dance?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "They go to the meat-ball!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "The meatball",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why couldn't the bike stand up on its own?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it was two-tired!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because it was too tired",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What's a writer's favorite train station?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Prose Station!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "real_response": "Penn Station",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you call a gnat with a sore throat? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A hoarse-fly!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      0
+    ],
+    "real_response": "A hoarse fly",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What's it called when kittens get stuck in a tree?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A cat-astrophe!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "A cat-astrophe",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What has four wheels and flies?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A garbage truck.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": " A garbage truck",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What part of the museum makes everyone sneeze?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "The a-choo-logy section!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      1,
+      0,
+      0
+    ],
+    "real_response": "The sta-tues",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What did the baker say when she won an award?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "I kneaded this!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "real_response": "It was a piece of cake",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why couldn't the couple respond right away when looking at wedding venues?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they needed time to \"marry\" over their options!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "real_response": "They were engaged",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How do frogs invest their money? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "In a river bank.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      0,
+      1,
+      1,
+      1
+    ],
+    "real_response": "They use a stock croaker",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Where was the dripping coming from in the fridge?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "From the leek!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "The leeks",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why don't phones ever go hungry?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they're always being \"fed\" by their chargers!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "real_response": "They have plenty of apps to choose from",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What makes a basketball court trendy and accessorized?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Dunkin' Donuts!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "real_response": "The hoops",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why didn’t the sun go to college?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it already had a million degrees!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "It already had a million degrees",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What do you give the dentist of the year?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A little plaque.",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "A little plaque",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What happens when doctors get frustrated?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "They lose their patients!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "They lose their patients",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the computer catch cold?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it left its Windows open!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "It left a window open",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How much money does a skunk have?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "One scent!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Only one scent",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did the watch go on vacation? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it needed some time off!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because it needed to unwind",
+    "llm_setting": [],
+    "feedback": "Inconsistent with human answer but still makes sense as a joke"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': What does a karate master get rewarded with while driving?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "A black belt!",
+    "final_annotation": 0,
+    "individual_annotations": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "real_response": "A seat belt",
+    "llm_setting": [],
+    "feedback": "Joke does not make sense"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why did two tall people get along so well? }",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because they see eye to eye!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "They could really see eye to eye",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': Why shouldn’t you write with a broken pencil?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "Because it's pointless!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "Because it’s pointless",
+    "llm_setting": [],
+    "feedback": "Correct"
+  },
+  {
+    "llm_name": "open_ai/gpt-4",
+    "category": "free-form-text",
+    "task_prompt": "{'role': 'system', 'content': 'What is the answer to this joke?'}, {'role': 'user', 'content': 'What did the janitor say when he jumped out of the closet?'},{'role': 'assistant', 'content': 'Supplies!'},{'role': 'user','content': How do you weigh a millennial?}",
+    "prompting_setup": "few-shot",
+    "no_of_example": 1,
+    "generated_response": "In Instagrams!",
+    "final_annotation": 1,
+    "individual_annotations": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "real_response": "In Instagrams",
+    "llm_setting": [],
+    "feedback": "Correct"
+  }
+]
